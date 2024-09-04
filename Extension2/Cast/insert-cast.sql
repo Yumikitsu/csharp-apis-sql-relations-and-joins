@@ -1,7 +1,7 @@
 insert into casts
 (film_fk, people_fk, isStar)
 values
-(1, 1, true),
+(1, 11, true),
 (1, 2, false),
 (1, 18, false),
 (2, 12, true),
